@@ -1,6 +1,6 @@
-#Hux Blog
+#Jimmy's Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Jimmy's Blog &rarr;](https://xxx.me)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
